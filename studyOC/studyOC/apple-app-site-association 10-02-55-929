@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "teamId.cn.hahn.study.studyOC",
+                "paths": [ "*" ]
+            }
+        ]
+    },
+    "webcredentials": {
+       "apps": [ "teamId.cn.hahn.study.studyOC" ]
+    }
+}
